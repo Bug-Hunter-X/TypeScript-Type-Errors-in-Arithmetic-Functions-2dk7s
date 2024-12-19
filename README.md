@@ -1,0 +1,2 @@
+# TypeScript Type Errors
+This repository demonstrates a simple example of type errors in TypeScript.  The `bug.ts` file contains code with type errors, while `bugSolution.ts` shows how to fix them using type guards or more flexible function definitions.  This example highlights the importance of type safety in TypeScript.
